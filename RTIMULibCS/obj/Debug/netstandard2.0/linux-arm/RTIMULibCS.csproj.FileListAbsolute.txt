@@ -1,0 +1,9 @@
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/bin/Debug/netstandard2.0/linux-arm/RTIMULibCS.deps.json
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/bin/Debug/netstandard2.0/linux-arm/RTIMULibCS.dll
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/bin/Debug/netstandard2.0/linux-arm/RTIMULibCS.pdb
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/obj/Debug/netstandard2.0/linux-arm/RTIMULibCS.csprojAssemblyReference.cache
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/obj/Debug/netstandard2.0/linux-arm/RTIMULibCS.csproj.CoreCompileInputs.cache
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/obj/Debug/netstandard2.0/linux-arm/RTIMULibCS.AssemblyInfoInputs.cache
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/obj/Debug/netstandard2.0/linux-arm/RTIMULibCS.AssemblyInfo.cs
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/obj/Debug/netstandard2.0/linux-arm/RTIMULibCS.dll
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/obj/Debug/netstandard2.0/linux-arm/RTIMULibCS.pdb

@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">  
+  <PropertyGroup>
+    <AssemblyTitle>Emmellsoft.IoT.Rpi.SenseHat.Tools</AssemblyTitle>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <LangVersion>7.1</LangVersion>
+    <OutputType>exe</OutputType>
+    <AssemblyName>Emmellsoft.IoT.Rpi.SenseHat.Tools</AssemblyName>
+    <PackageId>Emmellsoft.IoT.Rpi.SenseHat.Tools</PackageId>
+    <RootNamespace>Emmellsoft.IoT.Rpi.SenseHat.Tools</RootNamespace>    
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Platform)'=='AnyCPU'">
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <!--ProjectReference Include="..\Rpi.SenseHat\Rpi.SenseHat.csproj" /-->
+    <Reference Include="Emmellsoft.IoT.Rpi.SenseHat">
+      <HintPath>..\Rpi.SenseHat\bin\Debug\netstandard2.0\linux-arm\Emmellsoft.IoT.Rpi.SenseHat.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup Condition="'$(TargetFramework)' == 'netcoreapp2.0'">
+    <PackageReference Include="System.Drawing.Common">
+      <Version>4.5.0</Version>
+    </PackageReference>
+  </ItemGroup>  
+</Project>

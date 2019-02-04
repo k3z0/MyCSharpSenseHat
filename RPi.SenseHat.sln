@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPi.SenseHat.Tools", "RPi.SenseHat.Tools\RPi.SenseHat.Tools.csproj", "{4C15DA49-FDD7-456B-ABDF-0E6D135AAD75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rpi.SenseHat", "Rpi.SenseHat\Rpi.SenseHat.csproj", "{F5C43428-288F-4696-93CD-1088E77DB5BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RTIMULibCS", "RTIMULibCS\RTIMULibCS.csproj", "{C91BBCDD-0775-43FD-AB8D-E46FC1B07E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C15DA49-FDD7-456B-ABDF-0E6D135AAD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C15DA49-FDD7-456B-ABDF-0E6D135AAD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C15DA49-FDD7-456B-ABDF-0E6D135AAD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C15DA49-FDD7-456B-ABDF-0E6D135AAD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C43428-288F-4696-93CD-1088E77DB5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C43428-288F-4696-93CD-1088E77DB5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C43428-288F-4696-93CD-1088E77DB5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C43428-288F-4696-93CD-1088E77DB5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91BBCDD-0775-43FD-AB8D-E46FC1B07E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91BBCDD-0775-43FD-AB8D-E46FC1B07E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91BBCDD-0775-43FD-AB8D-E46FC1B07E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91BBCDD-0775-43FD-AB8D-E46FC1B07E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3E94B4-FE69-4ED5-930B-C773EF09A8AD}
+	EndGlobalSection
+EndGlobal

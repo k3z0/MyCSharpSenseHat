@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RPi.SenseHat.Tools/RPi.SenseHat.Tools.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

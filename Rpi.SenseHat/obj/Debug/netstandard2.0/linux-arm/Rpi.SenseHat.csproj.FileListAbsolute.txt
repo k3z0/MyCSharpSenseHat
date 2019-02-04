@@ -1,0 +1,12 @@
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/bin/Debug/netstandard2.0/linux-arm/Emmellsoft.IoT.Rpi.SenseHat.deps.json
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/bin/Debug/netstandard2.0/linux-arm/Emmellsoft.IoT.Rpi.SenseHat.dll
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/bin/Debug/netstandard2.0/linux-arm/Emmellsoft.IoT.Rpi.SenseHat.pdb
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/bin/Debug/netstandard2.0/linux-arm/RTIMULibCS.dll
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/bin/Debug/netstandard2.0/linux-arm/RTIMULibCS.pdb
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/obj/Debug/netstandard2.0/linux-arm/Rpi.SenseHat.csprojAssemblyReference.cache
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/obj/Debug/netstandard2.0/linux-arm/Rpi.SenseHat.csproj.CoreCompileInputs.cache
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/obj/Debug/netstandard2.0/linux-arm/Rpi.SenseHat.AssemblyInfoInputs.cache
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/obj/Debug/netstandard2.0/linux-arm/Rpi.SenseHat.AssemblyInfo.cs
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/obj/Debug/netstandard2.0/linux-arm/Rpi.SenseHat.csproj.CopyComplete
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/obj/Debug/netstandard2.0/linux-arm/Emmellsoft.IoT.Rpi.SenseHat.dll
+/home/daniel/Documents/Projects/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/Rpi.SenseHat/obj/Debug/netstandard2.0/linux-arm/Emmellsoft.IoT.Rpi.SenseHat.pdb
