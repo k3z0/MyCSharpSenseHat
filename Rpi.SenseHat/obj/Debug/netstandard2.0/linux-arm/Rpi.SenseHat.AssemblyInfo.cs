@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Emmellsoft.IoT.Rpi.SenseHat")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Rpi.SenseHat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Emmellsoft.IoT.Rpi.SenseHat")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Emmellsoft.IoT.Rpi.SenseHat")]
+[assembly: System.Reflection.AssemblyProductAttribute("Rpi.SenseHat")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Rpi.SenseHat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

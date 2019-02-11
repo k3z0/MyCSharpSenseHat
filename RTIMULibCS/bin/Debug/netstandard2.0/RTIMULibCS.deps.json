@@ -10,6 +10,7 @@
       "RTIMULibCS/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
+          "Unosquare.Raspberry.Abstractions": "0.2.1",
           "Unosquare.Raspberry.IO": "0.18.0",
           "Unosquare.RaspberryIO.Peripherals": "0.2.3"
         },

@@ -21,6 +21,7 @@
 //  OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 //  SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+using System;
 using System.Threading.Tasks;
 using RichardsTech.Sensors;
 using RichardsTech.Sensors.Devices.HTS221;
@@ -62,6 +63,7 @@ namespace Emmellsoft.IoT.Rpi.SenseHat
 
 		private static MainI2CDevice CreateDisplayJoystickI2CDevice()
 		{
+			Console.WriteLine("Inside CreateDisplayJoystickI2CDevice");
 		    var device = Pi.I2C.AddDevice(0x10);
             return new MainI2CDevice(device);
 		}

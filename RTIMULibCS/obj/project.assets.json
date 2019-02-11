@@ -4520,6 +4520,7 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
+      "Unosquare.Raspberry.Abstractions >= 0.2.1",
       "Unosquare.Raspberry.IO >= 0.18.0",
       "Unosquare.RaspberryIO.Peripherals >= 0.2.3"
     ]
@@ -4531,26 +4532,23 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/daniel/Documents/Projects/MyCSharpSenseHat/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/RTIMULibCS.csproj",
+      "projectUniqueName": "/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/RTIMULibCS/RTIMULibCS.csproj",
       "projectName": "RTIMULibCS",
-      "projectPath": "/home/daniel/Documents/Projects/MyCSharpSenseHat/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/RTIMULibCS.csproj",
+      "projectPath": "/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/RTIMULibCS/RTIMULibCS.csproj",
       "packagesPath": "/home/daniel/.nuget/packages/",
-      "outputPath": "/home/daniel/Documents/Projects/MyCSharpSenseHat/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/obj/",
+      "outputPath": "/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/RTIMULibCS/obj/",
       "projectStyle": "PackageReference",
-      "crossTargeting": true,
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/daniel/Documents/Projects/MyCSharpSenseHat/SenseHatCSharp/RPi.SenseHat/RPi.SenseHat/RTIMULibCS/NuGet.config",
         "/home/daniel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
@@ -4571,6 +4569,10 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
+          },
+          "Unosquare.Raspberry.Abstractions": {
+            "target": "Package",
+            "version": "[0.2.1, )"
           },
           "Unosquare.Raspberry.IO": {
             "target": "Package",

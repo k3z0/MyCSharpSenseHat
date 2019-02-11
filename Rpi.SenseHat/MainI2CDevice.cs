@@ -32,6 +32,7 @@ namespace Emmellsoft.IoT.Rpi.SenseHat
 
 		public MainI2CDevice(II2CDevice device)
 		{
+			Console.WriteLine("Inside main i2c device ctor");
 			_device = device;
 		}
 

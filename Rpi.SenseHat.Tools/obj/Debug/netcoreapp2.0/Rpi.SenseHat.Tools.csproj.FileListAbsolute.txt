@@ -1,0 +1,16 @@
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/bin/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.deps.json
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/bin/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.runtimeconfig.json
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/bin/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.runtimeconfig.dev.json
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/bin/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.dll
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/bin/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.pdb
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/bin/Debug/netcoreapp2.0/Rpi.SenseHat.dll
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/bin/Debug/netcoreapp2.0/RTIMULibCS.dll
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/bin/Debug/netcoreapp2.0/Rpi.SenseHat.pdb
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/bin/Debug/netcoreapp2.0/RTIMULibCS.pdb
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/obj/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.csprojAssemblyReference.cache
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/obj/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.csproj.CoreCompileInputs.cache
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/obj/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.AssemblyInfoInputs.cache
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/obj/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.AssemblyInfo.cs
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/obj/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.csproj.CopyComplete
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/obj/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.dll
+/home/daniel/Documents/Projects/gitTest/MyCSharpSenseHat/Rpi.SenseHat.Tools/obj/Debug/netcoreapp2.0/Rpi.SenseHat.Tools.pdb

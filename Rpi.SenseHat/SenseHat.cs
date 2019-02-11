@@ -23,7 +23,7 @@
 
 using System;
 using RichardsTech.Sensors;
-
+using Unosquare.RaspberryIO.Abstractions;
 namespace Emmellsoft.IoT.Rpi.SenseHat
 {
 	internal sealed class SenseHat : ISenseHat

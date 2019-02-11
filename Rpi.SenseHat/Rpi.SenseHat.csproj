@@ -1,10 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <AssemblyTitle>Emmellsoft.IoT.Rpi.SenseHat</AssemblyTitle>
-    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <!--AssemblyTitle>Emmellsoft.IoT.Rpi.SenseHat</AssemblyTitle>
     <AssemblyName>Emmellsoft.IoT.Rpi.SenseHat</AssemblyName>
     <PackageId>Emmellsoft.IoT.Rpi.SenseHat</PackageId>
-    <RootNamespace>Emmellsoft.IoT.Rpi.SenseHat</RootNamespace>    
+    <RootNamespace>Emmellsoft.IoT.Rpi.SenseHat</RootNamespace-->    
+    <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Platform)'=='AnyCPU'">
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
@@ -12,6 +12,7 @@
   
   <ItemGroup>
     <PackageReference Include="SixLabors.ImageSharp" Version="1.0.0-beta0004" />
+    <PackageReference Include="Unosquare.Raspberry.Abstractions" Version="0.2.1" />
     <PackageReference Include="Unosquare.Raspberry.IO" Version="0.18.0" />
     <PackageReference Include="Unosquare.RaspberryIO.Peripherals" Version="0.2.3" />
   </ItemGroup>
@@ -21,24 +22,7 @@
     </PackageReference>
   </ItemGroup>
   
-  <!-- <ItemGroup>
-  <ProjectReference Include="..\RTIMULibCS\RTIMULibCS.csproj" />    
-  </ItemGroup>       -->
   <ItemGroup>
-    <Reference Include="RichardsTech.Sensors">
-        <HintPath>..\RTIMULibCS\bin\Debug\netstandard2.0\linux-arm\RTIMULibCS.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-  <!-- <ItemGroup>
-    <Folder Include="Properties\" />
-  </ItemGroup>       -->
-  
-  <!--ItemGroup>
-    <Reference Include="Unosquare.RaspberryIO">
-      <HintPath>..\..\..\raspberryio\src\Unosquare.RaspberryIO\bin\Debug\netstandard2.0\linux-arm\Unosquare.RaspberryIO.dll</HintPath>
-    </Reference>
-    <Reference Include="Unosquare.RaspberryIO.Peripherals">
-      <HintPath>..\..\..\raspberryio\src\Unosquare.RaspberryIO.Peripherals\bin\Debug\netstandard2.0\linux-arm\Unosquare.RaspberryIO.Peripherals.dll</HintPath>
-    </Reference>
-  </ItemGroup-->
+    <ProjectReference Include="..\RTIMULibCS\RTIMULibCS.csproj" />    
+  </ItemGroup> 
 </Project>
