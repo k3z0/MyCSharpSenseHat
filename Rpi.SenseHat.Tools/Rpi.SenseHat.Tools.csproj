@@ -19,11 +19,6 @@
     <!--Reference Include="Emmellsoft.IoT.Rpi.SenseHat">
       <HintPath>..\Rpi.SenseHat\bin\Debug\netstandard2.0\linux-arm\publish\Rpi.SenseHat.dll</HintPath>
     </Reference-->
-  </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="Unosquare.Raspberry.Abstractions" Version="0.2.1" />
-    <PackageReference Include="Unosquare.Raspberry.IO" Version="0.18.0" />
-    <PackageReference Include="Unosquare.RaspberryIO.Peripherals" Version="0.2.3" />
   </ItemGroup> 
   <ItemGroup Condition="'$(TargetFramework)' == 'netcoreapp2.0'">
     <PackageReference Include="System.Drawing.Common">

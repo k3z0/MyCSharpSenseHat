@@ -10,8 +10,8 @@
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
   </PropertyGroup--> 
   <ItemGroup>
-    <PackageReference Include="Unosquare.Raspberry.Abstractions" Version="0.2.1" />
-    <PackageReference Include="Unosquare.Raspberry.IO" Version="0.18.0" />
-    <PackageReference Include="Unosquare.RaspberryIO.Peripherals" Version="0.2.3" />
+    <PackageReference Include="Unosquare.Raspberry.IO" Version="0.18.1" />
+    <PackageReference Include="Unosquare.RaspberryIO.Peripherals" Version="0.2.4" />
+    <PackageReference Include="Unosquare.WiringPi" Version="0.2.4" />
   </ItemGroup> 
 </Project>

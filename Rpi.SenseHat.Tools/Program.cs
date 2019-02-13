@@ -21,25 +21,20 @@
 //  OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 //  SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
-using Emmellsoft.IoT.Rpi.SenseHat.Fonts.MultiColor;
-using Emmellsoft.IoT.Rpi.SenseHat.Fonts.SingleColor;
-using Emmellsoft.IoT.Rpi.SenseHat.Tools.Font;
-using Emmellsoft.IoT.Rpi.SenseHat.Tools.LedBuffer;
-
 namespace Emmellsoft.IoT.Rpi.SenseHat.Tools
 {
-	internal static class Program
+    using System;
+    using System.Drawing;
+    using System.Threading;
+    using System.Threading.Tasks;
+    using Unosquare.RaspberryIO;
+    using Unosquare.WiringPi;
+
+    internal static class Program
 	{
 		static async Task Main(string[] args)
 		{
+            Pi.Init<BootstrapWiringPi>();
 			Console.WriteLine("Before call");
 			ISenseHat senseHat = await SenseHatFactory.GetSenseHat().ConfigureAwait(false);
 			Console.WriteLine("After call");
