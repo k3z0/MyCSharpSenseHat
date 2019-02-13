@@ -10,6 +10,7 @@
         "dependencies": {
           "Rpi.SenseHat": "1.0.0",
           "System.Drawing.Common": "4.5.0",
+          "Unosquare.Raspberry.Abstractions": "0.2.1",
           "Unosquare.Raspberry.IO": "0.18.0",
           "Unosquare.RaspberryIO.Peripherals": "0.2.3"
         },
@@ -1008,6 +1009,7 @@
           "RTIMULibCS": "1.0.0",
           "SixLabors.ImageSharp": "1.0.0-beta0004",
           "System.Drawing.Common": "4.5.0",
+          "Unosquare.Raspberry.Abstractions": "0.2.1",
           "Unosquare.Raspberry.IO": "0.18.0",
           "Unosquare.RaspberryIO.Peripherals": "0.2.3"
         },
@@ -1017,6 +1019,7 @@
       },
       "RTIMULibCS/1.0.0": {
         "dependencies": {
+          "Unosquare.Raspberry.Abstractions": "0.2.1",
           "Unosquare.Raspberry.IO": "0.18.0",
           "Unosquare.RaspberryIO.Peripherals": "0.2.3"
         },
