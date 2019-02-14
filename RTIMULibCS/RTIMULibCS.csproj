@@ -12,6 +12,5 @@
   <ItemGroup>
     <PackageReference Include="Unosquare.Raspberry.IO" Version="0.18.1" />
     <PackageReference Include="Unosquare.RaspberryIO.Peripherals" Version="0.2.4" />
-    <PackageReference Include="Unosquare.WiringPi" Version="0.2.4" />
   </ItemGroup> 
 </Project>
